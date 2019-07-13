@@ -1,0 +1,10 @@
+17:16:17,511  INFO pagefactory:47 - 打开浏览器chrome, 获取网址ַhttps://www.ctrip.com
+17:16:18,432  INFO pagefactory:29 - 点击：[[ChromeDriver: chrome on XP (c34efdf8731cb3cb3d3db350981aae09)] -> id: nav_vac]
+17:16:18,557  INFO pagefactory:28 - 点击：[[ChromeDriver: chrome on XP (c34efdf8731cb3cb3d3db350981aae09)] -> xpath: //a[contains(text(),'主题旅游')]]
+17:16:19,796  INFO pagefactory:36 - TestTravel测试完成！
+17:16:19,798 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+17:16:19,798 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_zh_CN.ftl"): Not found
+17:16:19,798 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_zh.ftl"): Not found
+17:16:19,798 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:16:19,798 DEBUG cache:45 - Loading template for "Extent.ftl"("zh_CN", UTF-8, parsed) from "jar:file:/C:/Users/86155/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:16:20,434  INFO pagefactory:82 - 关闭浏览器。

@@ -1,0 +1,5 @@
+13/07/2019 17:16:17 pagefactory 打开浏览器chrome, 获取网址ַhttps://www.ctrip.com
+13/07/2019 17:16:18 pagefactory 点击：[[ChromeDriver: chrome on XP (c34efdf8731cb3cb3d3db350981aae09)] -> id: nav_vac]
+13/07/2019 17:16:18 pagefactory 点击：[[ChromeDriver: chrome on XP (c34efdf8731cb3cb3d3db350981aae09)] -> xpath: //a[contains(text(),'主题旅游')]]
+13/07/2019 17:16:19 pagefactory TestTravel测试完成！
+13/07/2019 17:16:20 pagefactory 关闭浏览器。
